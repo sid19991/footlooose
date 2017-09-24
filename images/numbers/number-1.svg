@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:docname="number-1.svg"
+   viewBox="0 0 18.000053 26.999941"
+   version="1.1"
+   inkscape:version="0.92.2 (30a58d1, 2017-08-07)"
+   width="18.000053"
+   height="26.999941">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3809"
+       y2="354.22"
+       gradientUnits="userSpaceOnUse"
+       x2="416.14001"
+       gradientTransform="matrix(1.0504,0,0,1.0504,-181.29,304.64)"
+       y1="291.56"
+       x1="393.62"
+       inkscape:collect="always">
+      <stop
+         id="stop3805"
+         style="stop-color:#ffffff"
+         offset="0" />
+      <stop
+         id="stop3807"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3854"
+       y2="634.26001"
+       gradientUnits="userSpaceOnUse"
+       x2="414.17999"
+       gradientTransform="matrix(0.09992445,0,0,0.07986811,81.332389,920.46206)"
+       y1="365"
+       x1="414.17999"
+       inkscape:collect="always">
+      <stop
+         id="stop3797"
+         style="stop-color:#ff0000"
+         offset="0" />
+      <stop
+         id="stop3799"
+         style="stop-color:#800000"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="24"
+     pagecolor="#ffffff"
+     inkscape:window-height="744"
+     inkscape:window-maximized="1"
+     inkscape:zoom="1"
+     inkscape:window-x="65"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="116.05779"
+     inkscape:cy="118.85564"
+     inkscape:window-width="1301"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(-108.94221,-943.97498)">
+    <path
+       id="path3779"
+       style="color:#000000;fill:url(#linearGradient3854);stroke-width:0.08504874"
+       inkscape:connector-curvature="0"
+       d="m 119.4947,943.9754 a 0.59959425,0.47924668 0 0 0 -0.42779,0.14226 l -9.95154,8.08186 a 0.59959425,0.47924668 0 0 0 -0.003,0.67137 l 4.28104,3.52161 a 0.59959425,0.47924668 0 0 0 0.84934,0.007 l 4.65261,-3.64144 v 17.73766 a 0.59959425,0.47924668 0 0 0 0.59954,0.4792 h 6.84783 a 0.59959425,0.47924668 0 0 0 0.59953,-0.4792 v -26.04154 a 0.59959425,0.47924668 0 0 0 -0.59953,-0.4792 h -6.84783 z" />
+    <path
+       id="path3793"
+       style="color:#000000;fill:url(#linearGradient3809)"
+       inkscape:connector-curvature="0"
+       d="m 219.86,613.87 a 6.3029,6.3029 0 0 0 -4.4969,1.871 l -38.437,39.061 c 9.5869,-4.4185 20.072,-7.8937 31.249,-10.208 32.305,-6.6902 64.353,-2.4501 89.971,9.8145 v -34.236 a 6.3029,6.3029 0 0 0 -6.3023,-6.3023 h -71.984 z" />
+  </g>
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title></dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
